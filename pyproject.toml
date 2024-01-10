@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts_jw"
+name = "pycounts_jw19"
 version = "0.1.0"
 description = "Calculate word counts in a text file!"
 authors = ["jing_wen"]

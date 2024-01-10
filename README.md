@@ -1,21 +1,21 @@
-# pycounts_jw
+# pycounts_jw19
 
 Calculate word counts in a text file!
 
 ## Installation
 
 ```bash
-$ pip install pycounts_jw
+$ pip install pycounts_jw19
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycounts_jw19` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycounts_jw19.pycounts_jw import count_words
+from pycounts_jw19.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -30,9 +30,9 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`pycounts_jw` was created by jing_wen. It is licensed under the terms of the MIT license.
+`pycounts_jw19` was created by jing_wen. It is licensed under the terms of the MIT license.
 
 ## Credits
 
-`pycounts_jw` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
+`pycounts_jw19` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
